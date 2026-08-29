@@ -8,3 +8,6 @@ scripts/local-sandbox/.sandbox-manifest.json
 scripts/smoke-proof-lifecycle-result.json
 mutants.out
 mutants.out.old
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
